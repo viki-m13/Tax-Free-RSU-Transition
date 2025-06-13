@@ -5,7 +5,7 @@
 
 ## 1 | What This Demonstration Shows  
 Many employees accumulate large blocks of one company’s stock through RSUs.  
-This example models a rules-based way to **gradually exchange those RSUs for the S&P 500 ETF (SPY) while only crystallising capital losses**—thereby avoiding any immediate capital-gain tax.  
+This example models a rules-based way to **gradually exchange those RSUs for the S&P 500 ETF (SPY) while only generating capital losses**—thereby avoiding any immediate capital-gain tax.  
 
 > **Important:** This repository is purely an illustration of how such a rule set might work in Python.  
 > It is **not** a recommendation to implement the approach.
