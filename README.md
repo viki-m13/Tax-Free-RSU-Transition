@@ -1,5 +1,5 @@
 # Rolling Harvest-and-Replace  
-### An Illustrative Method for Transitioning From a Single-Stock RSU Position Into a Diversified ETF **Without Realising Capital-Gain Tax**
+### An Illustrative Method for Transitioning From a Single-Stock Position Into a Diversified ETF **Without Realising Capital-Gain Tax**
 
 ---
 
